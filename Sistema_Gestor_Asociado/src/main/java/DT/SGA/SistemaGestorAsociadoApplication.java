@@ -10,4 +10,5 @@ public class SistemaGestorAsociadoApplication {
 		SpringApplication.run(SistemaGestorAsociadoApplication.class, args);
 	}
 
+      
 }
