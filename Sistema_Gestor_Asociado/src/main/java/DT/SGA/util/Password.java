@@ -1,4 +1,4 @@
-package DT.SGA.Util;
+package DT.SGA.util;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
@@ -15,3 +15,4 @@ public class Password {
         return encoder.encode(password);
     }
 }
+
